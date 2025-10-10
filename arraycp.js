@@ -1,5 +1,5 @@
 // Task 1: Initialize the Array
-let greeting = Array(5);
+let greeting = Array(7);
 greeting.fill("Hello");
 console.log(greeting);
 
